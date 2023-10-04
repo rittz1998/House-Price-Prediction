@@ -10,3 +10,5 @@ On real estate data, many data mining techniques for house pricing, such as rand
 4) Data Transformation
 5) Model Selection
 6) Model Evaluation
+
+<img width="365" alt="accuracy measurement" src="https://github.com/rittz1998/House-Price-Prediction/assets/103475842/d5222b92-483d-4c44-ba0b-b9d26d049982">
